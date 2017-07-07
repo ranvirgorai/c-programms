@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1499324446 source:/home/ranvir/myProject/c-programms/myProgramms/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
